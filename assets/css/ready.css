@@ -2041,7 +2041,8 @@ label {
 body {
   min-height: 100vh;
   position: relative;
-  direction: rtl;
+  direction: rtl;    
+  overflow-x: hidden;
 }
 
 .wrapper {
